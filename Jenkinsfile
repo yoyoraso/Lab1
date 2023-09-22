@@ -2,4 +2,5 @@
  stage('Demo') {
      echo 'Hello world'
      sayHello 'main'
+     bye 'jenkins'
  }
