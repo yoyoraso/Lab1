@@ -1,5 +1,5 @@
-@Library('samy')_
+@Library('samy@test')_
  stage('Demo') {
      echo 'Hello world'
-     sayHello 'main'
+     sayHello 'test'
  }
