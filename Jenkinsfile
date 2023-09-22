@@ -1,4 +1,4 @@
-@Library('sharedliberary')_
+@Library('samy')_
  stage('Demo') {
      echo 'Hello world'
      sayHello 'main'
