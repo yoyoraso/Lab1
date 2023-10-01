@@ -1,2 +1,2 @@
-@Library('samy')_
+@Library('sharedliberary')_
 test()
